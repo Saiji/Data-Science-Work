@@ -1,3 +1,4 @@
+# Author - Saikat Hazra
 #remove all the objects stored
 rm(list=ls())
 
